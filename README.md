@@ -1,4 +1,4 @@
-## 🖼️ ![Profilbanner](https://github.com/im23b-hubere/im23b-hubere/blob/main/standard.gif)  
+## 🖼️ ![Profilbanner](https://github.com/im23b-hubere/im23b-hubere/blob/main/standard%20(1).gif)
 
 # 👋 **Hello, I’m Eric Huber!**  
 💻 **Computer Science Student** | 🎓 **IMS Hottingen**  
