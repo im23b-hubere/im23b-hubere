@@ -8,9 +8,9 @@
 ---
 
 ## 🚀 **About Me**  
-I'm a passionate computer science student with a love for **web development**, **programming**, and **databases**. My goal is to continuously improve my skills, work on exciting projects, and contribute to the tech world. 💡  
-
-I enjoy exploring modern technologies and believe in **learning by building**! Whether it's creating websites, Python tools, or personal scripts—**innovation keeps me motivated**.
+I'm a computer science student with a love for **web development**, **programming**, and **databases**. My goal is to improve my skills, work on exciting projects, and to explore the tech world. 💡  
+When I’m not coding or working on projects, you’ll probably find me in the gym or producing beats on my laptop. I’ve been creating music for a few years now, and hitting the gym 4-6 times a week has become a big part of my routine.
+I enjoy exploring modern technologies and believe in **learning by building**! .
 
 ---
 
