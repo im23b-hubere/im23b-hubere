@@ -1,6 +1,7 @@
 ## 🖼️ ![Profilbanner](https://github.com/im23b-hubere/im23b-hubere/blob/main/standard%20(1).gif)
 
-# 👋 **Hello, I’m Eric Huber!**  
+# 👋 **Hello World** <img src="https://github.com/im23b-hubere/im23b-hubere/blob/main/omg.gif" alt="Rotating Earth" width="35" />, I’m Eric Huber!
+
 💻 **Computer Science Student** | 🎓 **IMS Hottingen**  
 📍 **Location:** Zürich, Switzerland 🇨🇭  
 
