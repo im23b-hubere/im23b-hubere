@@ -12,6 +12,7 @@ I'm a dedicated student with a strong interest in web development, programming, 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=im23b-hubere&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=im23b-hubere&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 
 
