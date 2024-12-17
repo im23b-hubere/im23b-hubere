@@ -12,6 +12,9 @@ I'm a dedicated student with a strong interest in web development, programming, 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=im23b-hubere&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
+[![Eric's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=im23b-hubere&layout=compact&theme=radical&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+
+
 
 
 ## 🛠️ Technologies I’ve worked with:  
