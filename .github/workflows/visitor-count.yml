@@ -2,8 +2,8 @@ name: Update Visitor Count
 
 on:
   schedule:
-    - cron: '0 0 * * *'  # This runs once a day at midnight (UTC)
-  workflow_dispatch:  # This allows manual triggering of the workflow
+    - cron: '0 0 * * *'  
+  workflow_dispatch:  
 
 jobs:
   count-visitors:
@@ -19,9 +19,11 @@ jobs:
 
       - name: Update README with visitor count
         run: |
+          # Ersetze {{visitor_count}} im README mit dem tatsächlichen Wert
           sed -i "s/{{visitor_count}}/$VISITOR_COUNT/" README.md
 
       - name: Commit updated README
         uses: EndBug/add-and-commit@v7
         with:
           message: 'Update visitor count'
+          add: 'README.md' 
