@@ -8,7 +8,11 @@ I'm a dedicated student with a strong interest in web development, programming, 
 
 ---
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/apiim23b-hubere=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=im23b-hubere&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=im23b-hubere&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+
+
 
 ## 🛠️ Technologies I’ve worked with:  
 
