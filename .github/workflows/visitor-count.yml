@@ -1,0 +1,27 @@
+name: Update Visitor Count
+
+on:
+  schedule:
+    - cron: '0 0 * * *' 
+  workflow_dispatch:  
+
+jobs:
+  count-visitors:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v2
+
+      - name: Count visitors
+        run: |
+          VISITOR_COUNT=$(curl -s "https://komarev.com/ghpvc/?username=im23b-hubere&label=Profile+Views&color=blue&style=flat-square" | grep -oP '(?<=count=)\d+')
+          echo "VISITOR_COUNT=$VISITOR_COUNT" >> $GITHUB_ENV
+
+      - name: Update README with visitor count
+        run: |
+          sed -i "s/{{visitor_count}}/$VISITOR_COUNT/" README.md
+
+      - name: Commit updated README
+        uses: EndBug/add-and-commit@v7
+        with:
+          message: 'Update visitor count'
