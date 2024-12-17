@@ -5,7 +5,10 @@
 
 I'm a dedicated student with a strong interest in web development, programming, and databases. My aim is to keep enhancing my skills, take on exciting projects, and establish myself in the field of computer science.
 
+
 ---
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/apiim23b-hubere=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 🛠️ Technologies I’ve worked with:  
 
