@@ -72,10 +72,5 @@ I enjoy exploring modern technologies and believe in **learning by building**! .
 
 ---
 
-## 🔥 **Profile Views**
-<div align="center">
-  ![Profile Views](https://komarev.com/ghpvc/?username=im23b-hubere&label=Profile+Views&color=blue&style=flat-square)
-  Aktuelle Besucherzahl: **{{visitor_count}}**
-</div>
 
 
