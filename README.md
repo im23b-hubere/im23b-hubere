@@ -1,4 +1,6 @@
-## 🖼️ ![Profilbanner](https://github.com/im23b-hubere/im23b-hubere/blob/main/standard%20(1).gif)
+<div align="center">
+  <img src="https://github.com/im23b-hubere/im23b-hubere/blob/main/standard%20(1).gif" alt="Beschreibung des GIF" width="700"/>
+</div>
 
 # 👋 **Hello World** <img src="https://github.com/im23b-hubere/im23b-hubere/blob/main/omg.gif" alt="Rotating Earth" width="35" />, I’m Eric Huber!
 
